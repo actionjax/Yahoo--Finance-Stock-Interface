@@ -1,0 +1,5 @@
+Requirements
+
+Java 1.5 or better
+Apache HTTPClient jars and its dependencies (commons-codec, commons-logging)
+
